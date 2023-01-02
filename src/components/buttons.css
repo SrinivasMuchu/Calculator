@@ -1,0 +1,16 @@
+.btn{
+    height: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    background-color: #181414;
+    color: white;
+    flex:1;
+    border: 1px solid black;
+    margin: 4px;
+    border-radius: 50%;
+}
+.btn:hover{
+    background: rgb(73, 70, 70);
+}

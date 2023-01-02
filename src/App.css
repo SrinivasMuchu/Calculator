@@ -1,0 +1,22 @@
+body {
+  /* color: white; */
+  height: 100%;
+
+}
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper{
+  background-color:black;
+  width:400px;
+  border-radius: 16px;
+}
+.btn-row{
+  display: flex;
+}
+.text-area{
+ border: 1px solid rgb(255, 255, 255);
+ margin: 25px auto;
+}

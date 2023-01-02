@@ -1,0 +1,17 @@
+.input-taken{
+    height: 10em;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+    padding: 10px;
+    color: white;
+}
+.answer{
+    flex: 1;
+    font-size: 24px;
+}
+.text{
+    flex: 1;
+    font-size: 18px;
+}
